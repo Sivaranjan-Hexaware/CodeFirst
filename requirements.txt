@@ -75,7 +75,7 @@ tornado==6.1
 traitlets==5.1.0
 traittypes==0.2.1
 urllib3==1.26.7
-voila==0.2.15
+voila==0.2.7
 wcwidth==0.2.5
 webencodings==0.5.1
 websocket-client==1.2.1
